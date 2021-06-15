@@ -16,6 +16,6 @@ null
 
 ## Note
 
-**-------- CLEAN UP IN PROGRESS --------**
+**--------- CLEAN UP IN PROGRESS --------**
 
 **--- ALL REPOSITORIES MADE PRIVATE ---**
