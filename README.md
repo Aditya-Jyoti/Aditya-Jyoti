@@ -27,4 +27,6 @@ Hey my name's Aditya, from India. I started programming in March of 2020 with py
 </p>
 </details>
 
-## Note: CLEAN UP IN PROGRESS, ALL REPOSITORIES MADE PRIVATE UNTIL FURTHER UPDATES
+## Note: 
+
+**CLEAN UP IN PROGRESS, ALL REPOSITORIES MADE PRIVATE UNTIL FURTHER UPDATES**
