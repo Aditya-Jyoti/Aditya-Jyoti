@@ -18,11 +18,16 @@ Hey my name's Aditya, from India. I started programming in March of 2020 with py
 ## Languages That Im learning Currently
 1. JavaScript
 
-[![Toady's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reverend-Toady&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Statistics
 
+<details style="cursor: pointer;" open>
+  <summary>Statistics</summary>
+<p align=center>
+<a href="https://github.com/giorno420">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reverend-Toady&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reverend-Toady&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+</a>
+</p>
+</details>
 
-## Note
-
-**--------- CLEAN UP IN PROGRESS --------**
-
-**--- ALL REPOSITORIES MADE PRIVATE ---**
+## Note: CLEAN UP IN PROGRESS, ALL REPOSITORIES MADE PRIVATE UNTIL FURTHER UPDATES
