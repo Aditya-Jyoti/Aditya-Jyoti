@@ -22,10 +22,10 @@ Hey my name's Aditya, from India. I started programming in March of 2020 with py
 
 <details style="cursor: pointer;" open>
   <summary>Statistics</summary>
-<p align=left>
-<a href="https://github.com/giorno420">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reverend-Toady&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reverend-Toady&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+<p align=center>
+<a href="https://github.com/Reverend-Toady">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Reverend-Toady&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reverend-Toady&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
 </a>
 </p>
 </details>
