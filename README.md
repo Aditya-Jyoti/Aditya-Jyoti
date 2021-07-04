@@ -18,6 +18,9 @@ Hey my name's Aditya, from India. I started programming in March of 2020 with py
 ## Languages That Im learning Currently
 1. JavaScript
 
+[![Toady's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reverend-Toady)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Note
 
 **--------- CLEAN UP IN PROGRESS --------**
