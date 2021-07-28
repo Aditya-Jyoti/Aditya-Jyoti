@@ -26,7 +26,3 @@ Hey my name's Aditya, from India. I started programming in March of 2020 with py
 </a>
 </p>
 </details>
-
-## Note: 
-
-**CLEAN UP IN PROGRESS, ALL REPOSITORIES MADE PRIVATE UNTIL FURTHER UPDATES**
