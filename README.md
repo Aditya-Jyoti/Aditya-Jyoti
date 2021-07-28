@@ -8,15 +8,13 @@ Hey my name's Aditya, from India. I started programming in March of 2020 with py
 
 1. [Spotify Downloader](https://github.com/Reverend-Toady/Spotify-Downloader)
   : This is a program that downloads a Spotify playlist in MP3 format
-  
-2. [Javascript Projects](https://github.com/Reverend-Toady/JavaScript-Projects)
-  : This repository is a cumulation of JS projects that I made via the help of YT, to learn JavaScript
-
+ 
 ## Languages Im Comfortable In
 1. Python
 
 ## Languages That Im learning Currently
 1. JavaScript
+2. Rust
 
 ## GitHub Statistics
 
