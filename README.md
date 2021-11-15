@@ -15,6 +15,7 @@ Hey my name's Aditya, from India. I started programming in March of 2020 with py
 ## Languages That Im learning Currently
 1. JavaScript
 2. Rust
+3. C/C++
 
 ## GitHub Statistics
 
