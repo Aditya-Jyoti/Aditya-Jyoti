@@ -1,4 +1,4 @@
-![A Tool For Converting Caffeine Into Code](https://i.pinimg.com/originals/b6/d9/e4/b6d9e4bb3642d036a207f7a83b2f9128.jpg)
+<!-- ![A Tool For Converting Caffeine Into Code](https://i.pinimg.com/originals/b6/d9/e4/b6d9e4bb3642d036a207f7a83b2f9128.jpg) -->
 
 ## About Me
 
@@ -8,15 +8,22 @@ Hey my name's Aditya, from India. I started programming in March of 2020 with py
 
 1. [Spotify Downloader](https://github.com/Reverend-Toady/Spotify-Downloader)
   : This is a program that downloads a Spotify playlist in MP3 format
- 
-## Languages Im Comfortable In
-1. Python
 
-## Languages That Im learning Currently
-1. JavaScript
-2. Rust
-3. C/C++
+2. [Duck Builder](https://github.com/Reverend-Toady/Duck-Builder)
+  : This project is a clone, but not a direct copy of the quackstack project by Python Discord
 
+3. [Tetris](https://github.com/Reverend-Toady/tic-tac-toe)
+  : Console TicTacToe with pseudo-smart AI made to learn cpp
+
+4. [Birthday Tracker](https://github.com/Reverend-Toady/birthday-tracker)
+  : A program that keeps track of upcoming birthdays
+
+5. [Table Printer](https://github.com/Reverend-Toady/table-printer)
+  : A console table printer coded in rust
+
+6. [Spotify Playlist Adder](https://github.com/Reverend-Toady/Spotify-Playlist-Adder)
+  : A discord bot that addes songs to a playlist from a specific discord channel
+  
 ## GitHub Statistics
 
 <p align=center>
