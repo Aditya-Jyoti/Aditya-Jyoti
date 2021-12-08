@@ -4,6 +4,13 @@
 
 Hey my name's Aditya, from India. I started programming in March of 2020 with python and have since feel in love with it
 
+## Languages I am comfortable in (decreasing order)
+
+1. Python
+2. C++
+3. Rust
+4. JavaScript
+
 ## Projects I Have Worked On
 
 1. [Spotify Downloader](https://github.com/Reverend-Toady/Spotify-Downloader)
