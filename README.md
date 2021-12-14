@@ -22,8 +22,8 @@ Hey my name's Aditya, from India. I started programming in March of 2020 with py
 3. [TIcTacToe](https://github.com/Reverend-Toady/tic-tac-toe)
   : Console TicTacToe with pseudo-smart AI made to learn cpp
 
-4. [Table Printer](https://github.com/Reverend-Toady/table-printer)
-  : A console table printer coded in c++, python, rust
+4. [Password Vault](https://github.com/Reverend-Toady/password-vault)
+  : This is a command line password vault, that stores, creates, and displays <username, password, website> 
   
 ## GitHub Statistics
 
