@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey my name's Aditya, from India. I started programming in March of 2020 with python and have since feel in love with it
+Hey my name's Aditya. I started programming in March of 2020 with python and have since feel in love with it
 
 ## Languages I am comfortable in (decreasing order)
 
