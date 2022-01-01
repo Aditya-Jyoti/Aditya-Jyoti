@@ -11,12 +11,23 @@ Hey my name's Aditya. I started programming in March of 2020 with python and hav
 3. Rust
 4. JavaScript
 
-## Projects I Have Worked On
+## GitHub Statistics
 
-1. [Spotify Downloader](https://github.com/Reverend-Toady/Spotify-Downloader)
-  
+<p align=center>
+<a href="https://github.com/Reverend-Toady">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reverend-Toady&show_icons=true&include_all_commits=true&count_private=true$show_icons=true&theme=tokyonight&hide_border=true" alt="Statistics." />
+</a>
+</p>
+
+<details>
+  <summary>Projects I Have Worked On</summary>
+
+  <br>
+  <a href="https://github.com/Reverend-Toady/Spotify-Downloader">Spotify Downloader</a>
+   
   - This is a program that downloads a Spotify playlist in MP3 format
-
+  </br>
+  
 2. [Duck Builder](https://github.com/Reverend-Toady/Duck-Builder)
   
   - This project is a clone, but not a direct copy of the quackstack project by Python Discord
@@ -36,12 +47,5 @@ Hey my name's Aditya. I started programming in March of 2020 with python and hav
 6. [Games-Vault](https://github.com/Reverend-Toady/Games-Vault)
   
   - This is a vault or a cumulation all games created by me using the SFML library for the language C++
-  
-## GitHub Statistics
 
-<p align=center>
-<a href="https://github.com/Reverend-Toady">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reverend-Toady&show_icons=true&include_all_commits=true&count_private=true$show_icons=true&theme=tokyonight&hide_border=true" alt="Statistics." />
-</a>
-</p>
 </details>
