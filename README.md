@@ -19,8 +19,10 @@ Hey my name's Aditya. I started programming in March of 2020 with python and hav
 </a>
 </p>
 
+## Projects I Have Worked On
+
 <details>
-  <summary> <big>Projects I Have Worked On</big> </summary>
+  <summary> VIEW </summary>
 
   <br>
   <a href="https://github.com/Reverend-Toady/Spotify-Downloader">Spotify Downloader</a>
@@ -28,24 +30,35 @@ Hey my name's Aditya. I started programming in March of 2020 with python and hav
   - This is a program that downloads a Spotify playlist in MP3 format
   </br>
   
-2. [Duck Builder](https://github.com/Reverend-Toady/Duck-Builder)
+  <br>
+  <a href="https://github.com/Reverend-Toady/Duck-Builder">Duck Builder</a>
   
   - This project is a clone, but not a direct copy of the quackstack project by Python Discord
+  </br>
 
-3. [TIcTacToe](https://github.com/Reverend-Toady/tic-tac-toe)
+
+  <br>
+  <a href="https://github.com/Reverend-Toady/tic-tac-toe">TicTacToe</a>
   
   - Console TicTacToe with pseudo-smart AI made to learn cpp
-
-4. [Password Vault](https://github.com/Reverend-Toady/password-vault)
+  </br>
   
-  - This is a command line password vault, that stores, creates, and displays <username, password, website> 
-
-5. [365-Days-of-Code](https://github.com/Reverend-Toady/365-Days-of-Code)
+  <br>
+  <a href="https://github.com/Reverend-Toady/password-vault">Password Vault</a>
+  
+  - This is a command line password vault, that stores, creates, and displays <username, password, website>
+  </br>
+  
+  <br>
+  <a href="https://github.com/Reverend-Toady/365-Days-of-Code">365-Days-of-Code</a>
   
   - Solving a coding problem everyday for 2022
-
-6. [Games-Vault](https://github.com/Reverend-Toady/Games-Vault)
+  </br>
+  
+  <br>
+  <a href="https://github.com/Reverend-Toady/Games-Vault">Games-Vault</a>
   
   - This is a vault or a cumulation all games created by me using the SFML library for the language C++
+  </br>
 
 </details>
