@@ -15,27 +15,27 @@ Hey my name's Aditya. I started programming in March of 2020 with python and hav
 
 1. [Spotify Downloader](https://github.com/Reverend-Toady/Spotify-Downloader)
   
-  : This is a program that downloads a Spotify playlist in MP3 format
+  - This is a program that downloads a Spotify playlist in MP3 format
 
 2. [Duck Builder](https://github.com/Reverend-Toady/Duck-Builder)
   
-  : This project is a clone, but not a direct copy of the quackstack project by Python Discord
+  - This project is a clone, but not a direct copy of the quackstack project by Python Discord
 
 3. [TIcTacToe](https://github.com/Reverend-Toady/tic-tac-toe)
   
-  : Console TicTacToe with pseudo-smart AI made to learn cpp
+  - Console TicTacToe with pseudo-smart AI made to learn cpp
 
 4. [Password Vault](https://github.com/Reverend-Toady/password-vault)
   
-  : This is a command line password vault, that stores, creates, and displays <username, password, website> 
+  - This is a command line password vault, that stores, creates, and displays <username, password, website> 
 
 5. [365-Days-of-Code](https://github.com/Reverend-Toady/365-Days-of-Code)
   
-  : Solving a coding problem everyday for 2022
+  - Solving a coding problem everyday for 2022
 
-5. [Games-Vault](https://github.com/Reverend-Toady/Games-Vault)
+6. [Games-Vault](https://github.com/Reverend-Toady/Games-Vault)
   
-  : This is a vault or a cumulation all games created by me using the SFML library for the language C++
+  - This is a vault or a cumulation all games created by me using the SFML library for the language C++
   
 ## GitHub Statistics
 
