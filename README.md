@@ -20,7 +20,7 @@ Hey my name's Aditya. I started programming in March of 2020 with python and hav
 </p>
 
 <details>
-  <summary><big>Projects I Have Worked On</big></summary>
+  <summary> <big>Projects I Have Worked On</big> </summary>
 
   <br>
   <a href="https://github.com/Reverend-Toady/Spotify-Downloader">Spotify Downloader</a>
