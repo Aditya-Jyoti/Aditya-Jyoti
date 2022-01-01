@@ -26,10 +26,13 @@ Hey my name's Aditya. I started programming in March of 2020 with python and hav
 
   <br>
   <a href="https://github.com/Reverend-Toady/Spotify-Downloader">Spotify Downloader</a>
+  
+  
   - This is a program that downloads a Spotify playlist in MP3 format
   
   
   <a href="https://github.com/Reverend-Toady/Duck-Builder">Duck Builder</a>
+  
   - This project is a clone, but not a direct copy of the quackstack project by Python Discord
   
   
@@ -38,6 +41,7 @@ Hey my name's Aditya. I started programming in March of 2020 with python and hav
   
   
   <a href="https://github.com/Reverend-Toady/password-vault">Password Vault</a>
+  
   - This is a command line password vault, that stores, creates, and displays <username, password, website>
 
   
@@ -46,6 +50,7 @@ Hey my name's Aditya. I started programming in March of 2020 with python and hav
 
   
   <a href="https://github.com/Reverend-Toady/Games-Vault">Games-Vault</a>
+  
   - This is a vault or a cumulation all games created by me using the SFML library for the language C++
   </br>
 
