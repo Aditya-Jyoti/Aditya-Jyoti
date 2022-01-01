@@ -25,8 +25,8 @@ Hey my name's Aditya. I started programming in March of 2020 with python and hav
   <summary> VIEW </summary>
 
   <br>
-  <a href="https://github.com/Reverend-Toady/Spotify-Downloader">Spotify Downloader</a>
   
+  <a href="https://github.com/Reverend-Toady/Spotify-Downloader">Spotify Downloader</a>
   
   - This is a program that downloads a Spotify playlist in MP3 format
   
@@ -52,6 +52,7 @@ Hey my name's Aditya. I started programming in March of 2020 with python and hav
   <a href="https://github.com/Reverend-Toady/Games-Vault">Games-Vault</a>
   
   - This is a vault or a cumulation all games created by me using the SFML library for the language C++
+
   </br>
 
 </details>
