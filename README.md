@@ -1,6 +1,6 @@
 ## About Me
 
-Hey my name's Aditya. I started programming in March of 2020 with python and have since feel in love with it.
+Hey my name's Aditya but I go by the alias of **Toady** on the internet. I started programming in March of 2020 with python and have since feel in love with it.
 My goal is to become a software engineer, in paticular in the backend web development industry or something to do with programming logic.
 I love building and breaking things and mechatronics is a hobby I have not yet invested in.
 
@@ -18,3 +18,7 @@ I love building and breaking things and mechatronics is a hobby I have not yet i
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reverend-Toady&show_icons=true&include_all_commits=true&count_private=true$show_icons=true&theme=tokyonight&hide_border=true" alt="Statistics." />
 </a>
 </p>
+
+## Contact me
+
+1. Discord   ->   toady#1775
