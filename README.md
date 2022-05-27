@@ -1,8 +1,8 @@
 ## About Me
 
-Hey my name's Aditya but I go by the alias of **Toady** on the internet. I started programming in March of 2020 with python and have since feel in love with it.
-My goal is to become a software engineer, in paticular in the backend web development industry or something to do with programming logic.
-I love building and breaking things and mechatronics is a hobby I have not yet invested in.
+Hey my name's Aditya but I go by the alias of **Toady** on the internet. I started programming in **March of 2020** with python and have since feel in love with it.
+My goal is to become a **software engineer**, in paticular in the **backend web development** industry or something to do with programming logic.
+I love building and breaking things and **mechatronics** is a hobby I have not yet invested in.
 
 ## Languages I am comfortable in (decreasing order)
 
@@ -21,4 +21,4 @@ I love building and breaking things and mechatronics is a hobby I have not yet i
 
 ## Contact me
 
-1. Discord   ->   toady#1775
+1. Discord -> toady#1775
