@@ -22,3 +22,5 @@ I love building and breaking things and **mechatronics** is a hobby I have not y
 ## Contact me
 
 1. Discord -> toady#1775
+
+![](https://komarev.com/ghpvc/?username=Reverend-Toady&color=24283b&style=flat&label=profile+views)
