@@ -27,6 +27,5 @@ My goal is to become a **software engineer**, in paticular in the
 
 ![](https://discord.c99.nl/widget/theme-4/593036316980019220.png)
 
-1. Discord -> toady#1775
 
 ![](https://komarev.com/ghpvc/?username=Reverend-Toady&color=24283b&style=flat&label=profile+views)
