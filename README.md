@@ -1,6 +1,7 @@
 ## About Me <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="32px" height="32px">
 
-<img align="right" width="100" height="100" src="https://imgur.com/a/oCQJZrl">
+<img src="https://imgur.com/a/oCQJZrl">
+
 Hey my name's Aditya but I go by the alias of **Toady** on the internet. I started programming in **March of 2020** with python and have since feel in love with it.
 My goal is to become a **software engineer**, in paticular in the **backend web development** industry or something to do with programming logic.
 I love building and breaking things and **mechatronics** is a hobby I have not yet invested in.
