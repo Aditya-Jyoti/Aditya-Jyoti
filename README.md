@@ -28,4 +28,4 @@ My goal is to become a **software engineer**, in paticular in the
 
 ![](https://discord.c99.nl/widget/theme-4/593036316980019220.png)
 
-**Email me at: rev.toady.py@gmail.com**
+**Email: rev.toady.py@gmail.com**
