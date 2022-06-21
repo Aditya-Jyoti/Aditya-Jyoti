@@ -6,7 +6,7 @@ I love building and breaking things and **mechatronics** is a hobby I have not y
 
 ## Languages I am comfortable in (decreasing order)
 
-<img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<a href= "https://en.wikipedia.org/wiki/Python_(programming_language)"><img src= "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 2. C++
 3. Rust
 4. JavaScript
