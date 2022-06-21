@@ -8,9 +8,13 @@ I love building and breaking things and **mechatronics** is a hobby I have not y
 
 <a href= "https://en.wikipedia.org/wiki/Python_(programming_language)"><img src= "https://img.shields.io/badge/python-00599C?style=for-the-badge&logo=python&logoColor=white"></a>
 
+<a href= "https://en.wikipedia.org/wiki/JavaScript"><img src= "https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=white"></a>
+
 <a href= "https://en.wikipedia.org/wiki/C%2B%2B"><img src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-3. Rust
-4. JavaScript
+
+<a href= "https://en.wikipedia.org/wiki/Rust_(programming_language)"><ing src= "https://img.shields.io/badge/Rust-00599C?style=for-the-badge&logo=rust&logoColor=white"></a>
+  
+<a href= "https://en.wikipedia.org/wiki/Go_(programming_language)"><img src= "https://img.shields.io/badge/Go-00599C?style=for-the-badge&logo=go&logoColor=white"></a>
 
 ## GitHub Statistics
 
