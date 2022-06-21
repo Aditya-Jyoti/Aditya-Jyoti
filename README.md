@@ -15,18 +15,17 @@ My goal is to become a **software engineer**, in paticular in the
 <a href= "https://en.wikipedia.org/wiki/Go_(programming_language)"><img src= "https://img.shields.io/badge/Go-1a212e?style=for-the-badge&logo=go&logoColor=white"></a>
 <a href= "https://en.wikipedia.org/wiki/Rust_(programming_language)"><img src= "https://img.shields.io/badge/Rust-1a212e?style=for-the-badge&logo=rust&logoColor=white"></a>
 
-## GitHub Statistics
+## GitHub Statistics <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="32px" height="32px">
 
+![](https://komarev.com/ghpvc/?username=Reverend-Toady&color=1a212e&style=flat&label=profile+views)
 <p align=center>
 <a href="https://github.com/Reverend-Toady">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reverend-Toady&show_icons=true&include_all_commits=true&count_private=true$show_icons=true&theme=tokyonight&hide_border=true" alt="Statistics" />
 </a>
 </p>
 
-## Connect with me
+## Connect with me <img src="https://cdn3.emoji.gg/emojis/1292-person-talking.png" width="32px" height="32px">
 
 ![](https://discord.c99.nl/widget/theme-4/593036316980019220.png)
 
 **Email me at: rev.toady.py@gmail.com**
-
-![](https://komarev.com/ghpvc/?username=Reverend-Toady&color=1a212e&style=flat&label=profile+views)
