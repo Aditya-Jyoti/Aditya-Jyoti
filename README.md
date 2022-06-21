@@ -1,10 +1,13 @@
 ## About Me <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="32px" height="32px">
 
-<img src="https://imgur.com/Aj8DRNc">
+<img src="assets/me_gif.gif">
 
-Hey my name's Aditya but I go by the alias of **Toady** on the internet. I started programming in **March of 2020** with python and have since feel in love with it.
-My goal is to become a **software engineer**, in paticular in the **backend web development** industry or something to do with programming logic.
-I love building and breaking things and **mechatronics** is a hobby I have not yet invested in.
+Hey my name's Aditya but I go by the alias of **Toady** on the internet. I
+started programming in **March of 2020** with python and have since feel in love
+with it. My goal is to become a **software engineer**, in paticular in the
+**backend web development** industry or something to do with programming logic.
+I love building and breaking things and **mechatronics** is a hobby I have not
+yet invested in.
 
 ## Languages <img src="https://cdn3.emoji.gg/emojis/7809-pepe-noted.gif" width="32x" height="32px">
 
@@ -13,7 +16,6 @@ I love building and breaking things and **mechatronics** is a hobby I have not y
 <a href= "https://en.wikipedia.org/wiki/C%2B%2B"><img src= "https://img.shields.io/badge/C%2B%2B-1a212e?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a href= "https://en.wikipedia.org/wiki/Go_(programming_language)"><img src= "https://img.shields.io/badge/Go-1a212e?style=for-the-badge&logo=go&logoColor=white"></a>
 <a href= "https://en.wikipedia.org/wiki/Rust_(programming_language)"><img src= "https://img.shields.io/badge/Rust-1a212e?style=for-the-badge&logo=rust&logoColor=white"></a>
-  
 
 ## GitHub Statistics
 
