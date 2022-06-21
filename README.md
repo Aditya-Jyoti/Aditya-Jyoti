@@ -25,7 +25,7 @@ My goal is to become a **software engineer**, in paticular in the
 
 ## Connect with me
 
-[](https://discord.c99.nl/widget/theme-4/593036316980019220.png)
+![](https://discord.c99.nl/widget/theme-4/593036316980019220.png)
 
 1. Discord -> toady#1775
 
