@@ -14,7 +14,7 @@ I love building and breaking things and **mechatronics** is a hobby I have not y
 
 <a href= "https://en.wikipedia.org/wiki/Go_(programming_language)"><img src= "https://img.shields.io/badge/Go-#1a212e?style=for-the-badge&logo=go&logoColor=white"></a>
 
-<a href= "https://en.wikipedia.org/wiki/Rust_(programming_language)"><img src= "https://img.shields.io/badge/Rust-#1a212e?style=for-the-badge&logo=rust&logoColor=white"></a>
+<a href= "https://en.wikipedia.org/wiki/Rust_(programming_language)"><img src= "https://img.shields.io/badge/Rust-1a212e?style=for-the-badge&logo=rust&logoColor=white"></a>
   
 
 ## GitHub Statistics
