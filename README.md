@@ -1,6 +1,6 @@
 ## About Me <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="32px" height="32px">
 
-<img src="assets/me_gif.gif">
+<img src="assets/me_gif.gif" align= "right", width= "300", height= "500">
 
 Hey my name's Aditya but I go by the alias of **Toady** on the internet. I
 started programming in **March of 2020** with python and have since feel in love
