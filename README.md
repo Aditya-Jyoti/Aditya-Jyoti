@@ -23,7 +23,7 @@ My goal is to become a **software engineer**, in paticular in the
 <a href= "https://github.com/Reverend-Toady/Spotify-Downloader">
 <img align= "left" src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=Spotify-Downloader&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e">
 </a>
-<a href= "https://github.com/Reverend-Toady/random-playlist-maker">
+<a align= "right" href= "https://github.com/Reverend-Toady/random-playlist-maker">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=random-playlist-maker&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e">
 </a>
 <a href= "https://github.com/Reverend-Toady/pathfinder">
