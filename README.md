@@ -27,7 +27,9 @@ My goal is to become a **software engineer**, in paticular in the
 <img align= "left" src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=random-playlist-maker&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e">
 </a>
 </div>
-<br>
+
+
+
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics 
 
 ![](https://komarev.com/ghpvc/?username=Reverend-Toady&color=1a212e&style=flat&label=profile+views)
