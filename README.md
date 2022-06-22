@@ -33,7 +33,7 @@ My goal is to become a **software engineer**, in paticular in the
 **Email: rev.toady.py@gmail.com**
 
 <details markdown= "1">
-  <summary><h2>Projectts</h2></summary>
+  <summary><h2><img src="https://cdn3.emoji.gg/emojis/2561-working.gif" width="28x" height="28px">Projects</h2></summary>
   <br>
       <a href= "https://github.com/Reverend-Toady/Spotify-Downloader">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=Spotify-Downloader&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e" width="500" height= "250">
