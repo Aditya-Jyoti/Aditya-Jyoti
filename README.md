@@ -19,21 +19,6 @@ My goal is to become a **software engineer**, in paticular in the
 
 ## Projects 
 
-<div>
-<a href= "https://github.com/Reverend-Toady/Spotify-Downloader">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=Spotify-Downloader&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e" width="500" height= "250">
-</a>
-<a href= "https://github.com/Reverend-Toady/random-playlist-maker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=random-playlist-maker&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e" width="500" height= "250">
-</a>
-<a href= "https://github.com/Reverend-Toady/pathfinder">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=pathfinder&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e" width="500" height= "250">
-</a>
-<a href= "https://github.com/Reverend-Toady/maze-generation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=maze-generation&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e" width="500" height= "250">
-</a>
-</div>
-
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics 
 
 ![](https://komarev.com/ghpvc/?username=Reverend-Toady&color=1a212e&style=flat&label=profile+views)
@@ -48,3 +33,22 @@ My goal is to become a **software engineer**, in paticular in the
 ![](https://discord.c99.nl/widget/theme-4/593036316980019220.png)
 
 **Email: rev.toady.py@gmail.com**
+
+<details>
+  <summary><h2>Open Me</h2><summary>
+    <br>
+    <div>
+    <a href= "https://github.com/Reverend-Toady/Spotify-Downloader">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=Spotify-Downloader&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e" width="500" height= "250">
+    </a>
+    <a href= "https://github.com/Reverend-Toady/random-playlist-maker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=random-playlist-maker&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e" width="500" height= "250">
+    </a>
+    <a href= "https://github.com/Reverend-Toady/pathfinder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=pathfinder&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e" width="500" height= "250">
+    </a>
+    <a href= "https://github.com/Reverend-Toady/maze-generation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=maze-generation&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e" width="500" height= "250">
+    </a>
+    </div>
+</details>
