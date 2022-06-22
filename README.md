@@ -24,11 +24,10 @@ My goal is to become a **software engineer**, in paticular in the
 <img align= "left" src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=Spotify-Downloader&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e">
 </a>
 <a href= "https://github.com/Reverend-Toady/random-playlist-maker">
-<img align= "left" src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=random-playlist-maker&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=random-playlist-maker&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e">
 </a>
 </div>
 
-<div>
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics 
 
 ![](https://komarev.com/ghpvc/?username=Reverend-Toady&color=1a212e&style=flat&label=profile+views)
@@ -37,7 +36,6 @@ My goal is to become a **software engineer**, in paticular in the
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reverend-Toady&show_icons=true&include_all_commits=true&count_private=true$show_icons=true&&hide_border=true&bg_color=1a212e&title_color=ffffff&icon_color=ffffff&text_color=ffffff" alt="Statistics" />
 </a>
 </p>
-</div>
   
 ## <img src="https://cdn3.emoji.gg/emojis/1292-person-talking.png" width="28px" height="28px"> Contact
 
