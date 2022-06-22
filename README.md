@@ -37,16 +37,5 @@ My goal is to become a **software engineer**, in paticular in the
 <details markdown= "1">
   <summary>Open Me<summary>
   <br>
-      <a href= "https://github.com/Reverend-Toady/Spotify-Downloader">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=Spotify-Downloader&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e" width="500" height= "250">
-      </a>
-      <a href= "https://github.com/Reverend-Toady/random-playlist-maker">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=random-playlist-maker&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e" width="500" height= "250">
-      </a>
-      <a href= "https://github.com/Reverend-Toady/pathfinder">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=pathfinder&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e" width="500" height= "250">
-      </a>
-      <a href= "https://github.com/Reverend-Toady/maze-generation">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=maze-generation&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e" width="500" height= "250">
-      </a>
+  some text
 </details>
