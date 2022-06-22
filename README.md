@@ -26,6 +26,12 @@ My goal is to become a **software engineer**, in paticular in the
 <a href= "https://github.com/Reverend-Toady/random-playlist-maker">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=random-playlist-maker&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e">
 </a>
+<a href= "https://github.com/Reverend-Toady/pathfinder">
+<img align= "left" src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=pathfinder&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e">
+</a>
+<a href= "https://github.com/Reverend-Toady/maze-generation">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=maze-generation&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e">
+</a>
 </div>
 
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics 
