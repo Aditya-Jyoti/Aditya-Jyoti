@@ -35,7 +35,7 @@ My goal is to become a **software engineer**, in paticular in the
 **Email: rev.toady.py@gmail.com**
 
 <details markdown= "1">
-  <summary>Open Me<summary>
+  <summary>Open Me</summary>
   <br>
   some text
 </details>
