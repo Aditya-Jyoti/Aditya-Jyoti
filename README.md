@@ -17,6 +17,15 @@ My goal is to become a **software engineer**, in paticular in the
 <a href= "https://en.wikipedia.org/wiki/Go_(programming_language)"><img src= "https://img.shields.io/badge/Go-1a212e?style=for-the-badge&logo=go&logoColor=white"></a>
 <a href= "https://en.wikipedia.org/wiki/Rust_(programming_language)"><img src= "https://img.shields.io/badge/Rust-1a212e?style=for-the-badge&logo=rust&logoColor=white"></a>
 
+## Projects 
+
+<a href= "https://github.com/Reverend-Toady/Spotify-Downloader">
+<img align= "left" src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=Spotify-Downloader&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e">
+</a>
+<a href= "https://github.com/Reverend-Toady/random-playlist-maker">
+<img align= "right" src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=random-playlist-maker&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e">
+</a>
+
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics 
 
 ![](https://komarev.com/ghpvc/?username=Reverend-Toady&color=1a212e&style=flat&label=profile+views)
