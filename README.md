@@ -9,6 +9,8 @@ with it.
 My goal is to become a **software engineer**, in paticular in the
 **backend web development** industry or something to do with programming logic.
 
+**Check out my project [Pathfinding into Programming](https://github.com/Pathfinding-into-Programming)**
+
 ## <img src="https://cdn3.emoji.gg/emojis/7809-pepe-noted.gif" width="28x" height="28px"> Languages
 
 > Note: I am most comfortable with using python and most my projects are hence written in it. I am slowly increasing my comfort level with C++ but the projects are not worth sharing and are hence private as of this moment.
@@ -33,22 +35,3 @@ My goal is to become a **software engineer**, in paticular in the
 ![](https://discord.c99.nl/widget/theme-4/593036316980019220.png)
 
 **Email: rev.toady.py@gmail.com**
-
-<!---
-<details markdown= "1">
-  <summary><h2><img src="https://cdn3.emoji.gg/emojis/2561-working.gif" width="28x" height="28px"> Projects</h2></summary>
-  <br>
-      <a href= "https://github.com/Reverend-Toady/Spotify-Downloader">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=Spotify-Downloader&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e" width="500" height= "250">
-      </a>
-      <a href= "https://github.com/Reverend-Toady/random-playlist-maker">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=random-playlist-maker&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e" width="500" height= "250">
-      </a>
-      <a href= "https://github.com/Reverend-Toady/pathfinder">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=pathfinder&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e" width="500" height= "250">
-      </a>
-      <a href= "https://github.com/Reverend-Toady/maze-generation">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reverend-Toady&repo=maze-generation&title_color=fff&icon_color=fff&text_color=fff&bg_color=1a212e" width="500" height= "250">
-      </a>
-</details>
---->
