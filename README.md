@@ -26,7 +26,7 @@ My goal is to become a **software engineer**, in paticular in the
 ![](https://komarev.com/ghpvc/?username=Reverend-Toady&color=1a212e&style=flat&label=profile+views)
 <p align=center>
 <a href="https://github.com/Reverend-Toady">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reverend-Toady&show_icons=true&include_all_commits=true&count_private=true$show_icons=true&&hide_border=true&bg_color=1a212e&title_color=ffffff&icon_color=ffffff&text_color=ffffff" alt="Statistics" />
+  <img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Reverend-Toady&include_orgs=true&show_icons=true&include_all_commits=true&count_private=true$show_icons=true&&hide_border=true&bg_color=1a212e&title_color=ffffff&icon_color=ffffff&text_color=ffffff" alt="Statistics" />
 </a>
 </p>
   
