@@ -21,7 +21,7 @@ My goal is to become a **software engineer**, in paticular in the
 
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics 
 
-![](https://komarev.com/ghpvc/?username=Reverend-Toady&color=1a212e&style=flat&label=profile+views)
+![](https://komarev.com/ghpvc/?username=Aditya-Jyoti&color=1a212e&style=flat&label=profile+views)
 <p align=center>
 <a href="https://github.com/Reverend-Toady">
   <!--
