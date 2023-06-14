@@ -1,5 +1,3 @@
-# Reverend Toady
-
 ## <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> About Me
 
 Hey my name's Aditya but I go by the alias of **Toady** on the internet. I
