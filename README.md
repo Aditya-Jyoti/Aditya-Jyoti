@@ -20,11 +20,11 @@ My goal is to become a **software engineer**, in paticular in the
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics 
 
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Jyoti&theme=ayu_mirage" alt="stats" />
+  <img align="center" src="http://github-profile-summary-cards-chi.vercel.app/api/cards/profile-details?username=Aditya-Jyoti&theme=ayu_mirage" alt="stats" />
   <br><br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Jyoti&theme=ayu_mirage" alt="langs" />
+  <img align="center" src="http://github-profile-summary-cards-chi.vercel.app/api/cards/repos-per-language?username=Aditya-Jyoti&theme=ayu_mirage" alt="langs" />
   &nbsp;&nbsp;
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya-Jyoti&theme=ayu_mirage" alt="stats" />
+  <img align="center" src="http://github-profile-summary-cards-chi.vercel.app/api/cards/stats?username=Aditya-Jyoti&theme=ayu_mirage" alt="stats" />
 </p>
 
 <br>
