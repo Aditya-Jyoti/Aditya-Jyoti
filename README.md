@@ -4,12 +4,19 @@ Hey my name's Aditya but I go by the alias of **Toady** on the internet. I
 started programming in **March of 2020** with python and have since feel in love
 with it. 
 
-My goal is to become a **software engineer**, in paticular in the
-**backend web development** industry or something to do with programming logic.
+I am an undergraduate student studying Computer Science in paticular dealing with 
+the branch of AI and Robotics. I chose it because it's interesting learning about 
+how things work and how to make life easier (totally not because im lazy).
+
+On my downtime I am an avid music and public speaking enthusiast, with having dived 
+into electronic production and standup comedy, one being more successful than the other. 
+The human mind is topic that fancies me extremely and hence I also like reading self help 
+and other books to understand behaviour.
 
 ## <img src="https://cdn3.emoji.gg/emojis/7809-pepe-noted.gif" width="28x" height="28px"> Languages
 
-> Note: I am most comfortable with using python and most my projects are hence written in it. I am slowly increasing my comfort level with C++ but the projects are not worth sharing and are hence private as of this moment.
+> Note: I am most comfortable with using python and most my projects are hence written in it. 
+> I am slowly increasing my comfort level with C++ but the projects are not worth sharing and are hence private as of this moment.
 
 <a href= "https://en.wikipedia.org/wiki/Python_(programming_language)"><img src= "https://img.shields.io/badge/python-1a212e?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href= "https://en.wikipedia.org/wiki/JavaScript"><img src= "https://img.shields.io/badge/JavaScript-1a212e?style=for-the-badge&logo=javascript&logoColor=white"></a>
