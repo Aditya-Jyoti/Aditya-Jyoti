@@ -26,7 +26,10 @@ My goal is to become a **software engineer**, in paticular in the
   <img  src="https://github-readme-stats.vercel.app/api?username=Aditya-Jyoti&hide=commits&theme=dracula&rank_icon=github&title=" alt="stats" />
 </a>
 </p>
+
 <br>
+
+
 ## <img src="https://cdn3.emoji.gg/emojis/1292-person-talking.png" width="28px" height="28px"> Contact
 
 ![](https://discord.c99.nl/widget/theme-4/593036316980019220.png)
