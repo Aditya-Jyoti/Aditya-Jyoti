@@ -20,7 +20,7 @@ My goal is to become a **software engineer**, in paticular in the
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics 
 
 <p align="center">
-<a href="https://github.com/Reverend-Toady">
+<a href="#">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Jyoti&theme=dracula" alt="stats" />
   <br>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Jyoti&theme=dracula" alt="langs" />
