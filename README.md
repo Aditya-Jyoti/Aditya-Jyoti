@@ -24,7 +24,7 @@ My goal is to become a **software engineer**, in paticular in the
   <br><br>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Jyoti&theme=ayu_mirage" alt="langs" />
   &nbsp;&nbsp;
-  <img align="center" src="http://github-profile-summary-cards-ea0oe1dh1-aditya-jyoti.vercel.app/api/cards/stats?username=Aditya-Jyoti&theme=ayu_mirage" alt="stats" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya-Jyoti&theme=ayu_mirage" alt="stats" />
 </p>
 
 <br>
