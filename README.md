@@ -21,10 +21,10 @@ My goal is to become a **software engineer**, in paticular in the
 
 <p align="center">
 <a href="#">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Jyoti&theme=dracula" alt="stats" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Jyoti&theme=ayu-mirage" alt="stats" />
   <br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Jyoti&theme=dracula" alt="langs" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya-Jyoti&theme=dracula&rank_icon=github&custom_title=Overview&hide_border=true" alt="stats" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Jyoti&theme=ayu-mirage" alt="langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya-Jyoti&rank_icon=github&custom_title=Overview&hide_border=true&bg_color=1f2430&text_color=f4cd7c&icon_color=73d0ff&title_color=f4cd7c" alt="stats" />
 </a>
 </p>
 
