@@ -23,12 +23,11 @@ My goal is to become a **software engineer**, in paticular in the
 <a href="https://github.com/Reverend-Toady">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Jyoti&theme=dracula" alt="stats" />
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Jyoti&theme=dracula" alt="langs" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=Aditya-Jyoti&hide=commits&theme=dracula&rank_icon=github&title=" alt="stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya-Jyoti&hide=commits&theme=dracula&rank_icon=github&title=General&hide_border=flase" alt="stats" />
 </a>
 </p>
 
 <br>
-
 
 ## <img src="https://cdn3.emoji.gg/emojis/1292-person-talking.png" width="28px" height="28px"> Contact
 
