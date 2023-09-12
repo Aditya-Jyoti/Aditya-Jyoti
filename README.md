@@ -1,8 +1,7 @@
 ## <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> About Me
 
-Hey my name's Aditya but I go by the alias of **Toady** on the internet. I
-started programming in **March of 2020** with python and have since feel in love
-with it. 
+Hey my name's Aditya. I started programming in **March of 2020** with python and have since feel in love
+with it. I am looking to work on and contribute to development projects.
 
 I am an undergraduate student studying Computer Science in paticular dealing with 
 the branch of AI and Robotics. I chose it because it's interesting learning about 
