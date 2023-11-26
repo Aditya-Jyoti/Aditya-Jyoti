@@ -14,14 +14,13 @@ and other books to understand behaviour.
 
 ## <img src="https://cdn3.emoji.gg/emojis/7809-pepe-noted.gif" width="28x" height="28px"> Languages
 
-<img src= "https://img.shields.io/badge/python-1a212e?style=for-the-badge&logo=python&logoColor=white">
-<img src= "https://img.shields.io/badge/Java-1a212e?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src= "https://img.shields.io/badge/JavaScript-1a212e?style=for-the-badge&logo=javascript&logoColor=white">
-<img src= "https://img.shields.io/badge/TypeScript-1a212e?style=for-the-badge&logo=typescript&logoColor=white">
-<img src= "https://img.shields.io/badge/C%2B%2B-1a212e?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-
-
-<!-- <a href= "https://en.wikipedia.org/wiki/Rust_(programming_language)"><img src= "https://img.shields.io/badge/Rust-1a212e?style=for-the-badge&logo=rust&logoColor=white"></a> -->
+<div style="display: flex;">
+  <img src= "https://img.shields.io/badge/python-1a212e?style=for-the-badge&logo=python&logoColor=white">
+  <img src= "https://img.shields.io/badge/Java-1a212e?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src= "https://img.shields.io/badge/JavaScript-1a212e?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src= "https://img.shields.io/badge/TypeScript-1a212e?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src= "https://img.shields.io/badge/C%2B%2B-1a212e?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</div>
 
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics 
 
