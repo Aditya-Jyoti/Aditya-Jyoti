@@ -38,7 +38,7 @@ I try to integrate skills attained from this industry to other aspects of my lif
 ## <img src="https://cdn3.emoji.gg/emojis/7809-pepe-noted.gif" width="28x" height="28px"> Languages
 
 <div>
-<div float="left">
+<div align="left">
 I am quite fluent in the following languages
 <ul>
   <li>English</li>
