@@ -20,17 +20,9 @@
 
 </div>
 
-<div>
-  <div align="left" style="float: left;">
-    <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> 
-    <h2>About Me</h2>
-  </div>
-  
-  <div align="right" style="float: right;">
-    <img src="https://komarev.com/ghpvc/?username=aditya-jyoti&style=flat-square&color=b57614&label=views" height="25px" alt="watching_count" />
-  </div>
-</div>
+## <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> About Me
 
+<img align="right" src="https://komarev.com/ghpvc/?username=aditya-jyoti&style=flat-square&color=b57614&label=views" height="25px" alt="watching_count" />
 
 I am a curious mind who is passionate about software engineering, robotics and language design with a dream to
 change and easen the lives of people around me with the help of my creations.
@@ -63,8 +55,8 @@ some lesser known languages like **Python, C/C++, JS/TS, Java**
 </tr>
 </table>
 
-## <img src="https://cdn3.emoji.gg/emojis/
+## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px" alt="Stats"> Github Statistics
 
-<p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Jyoti&theme=gruvbox" />
-</p>
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Jyoti&theme=gruvbox" alt="stats" />
+</div>
