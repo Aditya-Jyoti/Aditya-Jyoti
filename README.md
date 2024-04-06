@@ -45,7 +45,8 @@ I am quite fluent in the following languages
 </ul>
 
 Being a multi-lingual im also quite fluent in <br>
-some lesser known languages like **Python, C/C++, JS/TS, Java**
+some lesser known languages like <br> 
+**Python, C/C++, JS/TS, Java** and more...
 
 </div>
 </td>
