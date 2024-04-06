@@ -1,40 +1,61 @@
-## <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> About Me
+<center> <img src="./background.jpeg" /> </center>
 
-Hey my name's Aditya. I started programming in **March of 2020** with python and have since feel in love
-with it. I am looking to work on and contribute to development projects.
+<center style="margin-top: 10px;">
 
-I am an undergraduate student studying Computer Science in paticular dealing with 
-the branch of AI and Robotics. I chose it because it's interesting learning about 
-how things work and how to make life easier (totally not because im lazy).
+<a target="_blank" href="https://www.linkedin.com/in/aditya-jyoti/" style="margin: 0px 10px;"> 
+  <img src="https://img.shields.io/badge/LinkedIn-076678?style=for-the-badge&logo=linkedin&logoColor=white"> 
+</a>
+<a target="_blank" href="https://twitter.com/adityajyoti_" style="margin: 0px 10px;"> 
+  <img src="https://img.shields.io/badge/Twitter-79740e?style=for-the-badge&logo=twitter&logoColor=white"> 
+</a>
+<a target="_blank" href="https://discord.com/users/593036316980019220" style="margin: 0px 10px;"> 
+  <img src="https://img.shields.io/badge/Discord-873f71?style=for-the-badge&logo=discord&logoColor=white"> 
+</a>
+<a target="_blank" href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=aj.adityajyoti@gmail.com&tf=1" style="margin: 0px 10px;"> 
+  <img src="https://img.shields.io/badge/Gmail-9d0006?style=for-the-badge&logo=gmail&logoColor=white"> 
+</a>
+<a target="_blank" href="https://adityajyoti.com" style="margin: 0px 10px;"> 
+  <img src="https://img.shields.io/badge/website-427b58?style=for-the-badge&logo=About.me&logoColor=white"> 
+</a>
 
-On my downtime I am an avid music and public speaking enthusiast, with having dived 
-into electronic production and standup comedy, one being more successful than the other. 
-The human mind is topic that fancies me extremely and hence I also like reading self help 
-and other books to understand behaviour.
+</center>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> 
+    <h2>About Me</h2>
+  </div>
+  
+  
+  <img src="https://komarev.com/ghpvc/?username=aditya-jyoti&style=flat-square&color=b57614&label=views" style="height: 25px;" alt="watching_count" />
+</div>
+
+I am a curious mind who is passionate about software engineering, robotics and language design with a dream to
+change and easen the lives of people around me with the help of my creations.
+I don't like sitting idle and you'll find me working on whatever topic that has caught my fancy at that moment.
+Technology just compliments the way I think and the way I lead my life.
+I try to integrate skills attained from this industry to other aspects of my life so as to create cool stuff.
 
 ## <img src="https://cdn3.emoji.gg/emojis/7809-pepe-noted.gif" width="28x" height="28px"> Languages
 
-<div style="display: flex;">
-  <img src= "https://img.shields.io/badge/python-1a212e?style=for-the-badge&logo=python&logoColor=white">
-  <img src= "https://img.shields.io/badge/Java-1a212e?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src= "https://img.shields.io/badge/JavaScript-1a212e?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src= "https://img.shields.io/badge/TypeScript-1a212e?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src= "https://img.shields.io/badge/C%2B%2B-1a212e?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<div style="display: flex; justify-content:space-between;">
+<div style="display: flex; flex-direction: column; gap: 10px;">
+I am quite fluent in the following languages
+<ul>
+  <li>English</li>
+  <li>Hindi</li>
+  <li>Bengali</li>
+</ul>
+
+Being a multi-lingual im also quite fluent in some lesser known languages like **Python, C/C++, JS/TS, Java**
+
 </div>
 
-## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics 
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Jyoti&theme=gruvbox" />
+</div>
+
+## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics
 
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Jyoti&theme=ayu_mirage" alt="stats" />
-  <br><br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Jyoti&theme=ayu_mirage" alt="langs" />
-  &nbsp;&nbsp;
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya-Jyoti&theme=ayu_mirage" alt="stats" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Jyoti&theme=gruvbox" />
 </p>
-
-
-## <img src="https://cdn3.emoji.gg/emojis/1292-person-talking.png" width="28px" height="28px"> Contact
-
-![](https://discord.c99.nl/widget/theme-4/593036316980019220.png)
-
-**Email: rev.toady.py@gmail.com**
