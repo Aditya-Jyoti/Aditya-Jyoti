@@ -32,6 +32,7 @@ I try to integrate skills attained from this industry to other aspects of my lif
 
 ## <img src="https://cdn3.emoji.gg/emojis/7809-pepe-noted.gif" width="28x" height="28px"> Languages
 
+<div align="center">
 <table>
 <tr>
 <td>
@@ -54,6 +55,7 @@ some lesser known languages like **Python, C/C++, JS/TS, Java**
   
 </tr>
 </table>
+</div>
 
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px" alt="Stats"> Github Statistics
 
