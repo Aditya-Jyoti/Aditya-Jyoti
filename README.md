@@ -46,7 +46,7 @@ I am quite fluent in the following languages
 <li>Bengali</li>
 </ul>
 
-Being a multi-lingual im also quite fluent in <br>
+Being a multilingual im also quite fluent in <br>
 some lesser known languages like <br>
 **Python, C/C++, JS/TS, Java** and more...
 
