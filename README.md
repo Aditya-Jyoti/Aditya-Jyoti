@@ -38,6 +38,7 @@ I try to integrate skills attained from this industry to other aspects of my lif
 ## <img src="https://cdn3.emoji.gg/emojis/7809-pepe-noted.gif" width="28x" height="28px"> Languages
 
 <div>
+<div float="left">
 <div align="left">
 I am quite fluent in the following languages
 <ul>
@@ -49,6 +50,7 @@ I am quite fluent in the following languages
 Being a multi-lingual im also quite fluent in <br>
 some lesser known languages like **Python, C/C++, JS/TS, Java**
 
+</div>
 </div>
 
 <img float="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Jyoti&theme=gruvbox" />
