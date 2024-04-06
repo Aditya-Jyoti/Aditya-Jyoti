@@ -54,11 +54,23 @@ some lesser known languages like **Python, C/C++, JS/TS, Java**
 </div>
 </td>
 <td>
+
+<br />
+
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Jyoti&theme=gruvbox" />
+
+<br />
+
 </td>
 
 </tr>
 </table>
+
+## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics
+
+<p align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Jyoti&theme=gruvbox" />
+</p>
 
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics
 
