@@ -1,33 +1,32 @@
 <center> <img src="./background.jpeg" /> </center>
 
-<center style="margin-top: 10px;">
+<div align="center">
 
-<a target="_blank" href="https://www.linkedin.com/in/aditya-jyoti/" style="margin: 0px 10px;"> 
+<a target="_blank" href="https://www.linkedin.com/in/aditya-jyoti/"> 
   <img src="https://img.shields.io/badge/LinkedIn-076678?style=for-the-badge&logo=linkedin&logoColor=white"> 
 </a>
-<a target="_blank" href="https://twitter.com/adityajyoti_" style="margin: 0px 10px;"> 
+<a target="_blank" href="https://twitter.com/adityajyoti_"> 
   <img src="https://img.shields.io/badge/Twitter-79740e?style=for-the-badge&logo=twitter&logoColor=white"> 
 </a>
-<a target="_blank" href="https://discord.com/users/593036316980019220" style="margin: 0px 10px;"> 
+<a target="_blank" href="https://discord.com/users/593036316980019220"> 
   <img src="https://img.shields.io/badge/Discord-873f71?style=for-the-badge&logo=discord&logoColor=white"> 
 </a>
-<a target="_blank" href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=aj.adityajyoti@gmail.com&tf=1" style="margin: 0px 10px;"> 
+<a target="_blank" href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=aj.adityajyoti@gmail.com&tf=1"> 
   <img src="https://img.shields.io/badge/Gmail-9d0006?style=for-the-badge&logo=gmail&logoColor=white"> 
 </a>
-<a target="_blank" href="https://adityajyoti.com" style="margin: 0px 10px;"> 
+<a target="_blank" href="https://adityajyoti.com"> 
   <img src="https://img.shields.io/badge/website-427b58?style=for-the-badge&logo=About.me&logoColor=white"> 
 </a>
 
-</center>
+</div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="display: flex; align-items: center;">
-    <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> 
+<div>
+  <div align="left">
+    <img float="left" src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> 
     <h2>About Me</h2>
   </div>
   
-  
-  <img src="https://komarev.com/ghpvc/?username=aditya-jyoti&style=flat-square&color=b57614&label=views" style="height: 25px;" alt="watching_count" />
+  <img right="right" src="https://komarev.com/ghpvc/?username=aditya-jyoti&style=flat-square&color=b57614&label=views" height="25px" alt="watching_count" />
 </div>
 
 I am a curious mind who is passionate about software engineering, robotics and language design with a dream to
