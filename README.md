@@ -39,7 +39,7 @@ I try to integrate skills attained from this industry to other aspects of my lif
 
 <div>
 <div float="left">
-<div align="left">
+<div>
 I am quite fluent in the following languages
 <ul>
   <li>English</li>
@@ -53,7 +53,7 @@ some lesser known languages like **Python, C/C++, JS/TS, Java**
 </div>
 </div>
 
-<img float="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Jyoti&theme=gruvbox" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Jyoti&theme=gruvbox" />
 </div>
 
 ## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px"> GitHub Statistics
