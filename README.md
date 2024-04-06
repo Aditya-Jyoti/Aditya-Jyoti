@@ -38,6 +38,8 @@ I try to integrate skills attained from this industry to other aspects of my lif
 <td>
 <div align="left">
 I am quite fluent in the following languages
+<br>
+<br>
 <ul>
 <li>English</li>
 <li>Hindi</li>
@@ -45,7 +47,7 @@ I am quite fluent in the following languages
 </ul>
 
 Being a multi-lingual im also quite fluent in <br>
-some lesser known languages like <br> 
+some lesser known languages like <br>
 **Python, C/C++, JS/TS, Java** and more...
 
 </div>
